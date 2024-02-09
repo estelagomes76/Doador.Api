@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doador.Api", "Doador.Api\Doador.Api.csproj", "{B5271427-8206-4A96-842E-ADC944C2DA09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doador.Domain", "Doador.Domain\Doador.Domain.csproj", "{95C63542-6B1A-4FE8-8791-D12948516033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doador.Repository", "Doador.Repository\Doador.Repository.csproj", "{458706BA-99DC-4789-8118-24DA697CCA0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doador.Service", "Doador.Service\Doador.Service.csproj", "{F157C28E-0A05-4100-A19E-1593C9353803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5271427-8206-4A96-842E-ADC944C2DA09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5271427-8206-4A96-842E-ADC944C2DA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5271427-8206-4A96-842E-ADC944C2DA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5271427-8206-4A96-842E-ADC944C2DA09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95C63542-6B1A-4FE8-8791-D12948516033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95C63542-6B1A-4FE8-8791-D12948516033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95C63542-6B1A-4FE8-8791-D12948516033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95C63542-6B1A-4FE8-8791-D12948516033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{458706BA-99DC-4789-8118-24DA697CCA0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458706BA-99DC-4789-8118-24DA697CCA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458706BA-99DC-4789-8118-24DA697CCA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458706BA-99DC-4789-8118-24DA697CCA0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F157C28E-0A05-4100-A19E-1593C9353803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F157C28E-0A05-4100-A19E-1593C9353803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F157C28E-0A05-4100-A19E-1593C9353803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F157C28E-0A05-4100-A19E-1593C9353803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F212D6C-3A83-4059-8C8B-88A5A7AC2148}
+	EndGlobalSection
+EndGlobal
